@@ -19,6 +19,7 @@
     max-width: 720px;
     gap: 16px;
     grid-template-columns: repeat(2, 352px);
+    margin-bottom: 88px;
   }
 }
 
@@ -27,5 +28,6 @@
     max-width: 288px;
     gap: 12px;
     grid-template-columns: repeat(1, 288px);
+    margin-bottom: 64px;
   }
 }

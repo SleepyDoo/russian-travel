@@ -7,6 +7,10 @@
   transition: opacity .4s ease;
 }
 
+.lang-links__lang-link:first-of-type {
+  margin-right: 18px;
+}
+
 .lang-links__lang-link:hover {
   opacity: .8;
 }
