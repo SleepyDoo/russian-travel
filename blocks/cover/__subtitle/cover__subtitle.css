@@ -6,8 +6,6 @@
   line-height: 22px;
   text-align: center;
   margin: 32px auto 0;
-  grid-column: 1;
-  grid-row: 2;
   position: relative;
   z-index: 2;
 }
